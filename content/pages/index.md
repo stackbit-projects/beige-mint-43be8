@@ -20,6 +20,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
+    image: images/picture1.bmp
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
